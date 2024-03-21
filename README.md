@@ -144,6 +144,7 @@ With the use of drone technology, AeroFarms is able to more effectively monitor 
 > - [6] IEEE Spectrum. (2023). Using-Industrial-Automation-to-Monitor-Vertical-Farms. Retrieved from https://spectrum.ieee.org/industrial-automation-monitor-vertical-farms
 > - [7] AeroFarms. (2023). AeroFarms-Emerges-Fully-Funded-From-Chapter-11. Retrieved from https://www.aerofarms.com/aerofarms-emerges-fully-funded-from-chapter-11/
 > - [8] Linkedin (Emergen Research). (2024). Top-8-Vertical-Farming-Companies-In-The-World. Retrieved from https://www.linkedin.com/pulse/top-8-vertical-farming-companies-world-2024-emergen-research-jeb9f/
+> - [9] OpenAI. (2024). ChatGPT[Artificial Intelligence model]. Retrieved from https://openai.com/chatgpt
 
 
 

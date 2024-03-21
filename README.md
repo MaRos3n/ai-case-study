@@ -4,6 +4,7 @@
 # AeroFarms: Machine Learning and Indoor Agriculture
 
 ![Nokia Bell Labs Drone & AeroFarms[6]](Image.webp)
+Nokia Bell Labs Drone & AeroFarms Verticle Farm [6]
 
 ## Overview and Origin
 
